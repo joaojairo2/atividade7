@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+  .text{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+  }
+  .titulo{
+    color: blue;
+    font-weight: 100;
+    text-align: justify;
+    text-decoration: solid;
+    text-transform: none;
+    font-size: large;
+  }
